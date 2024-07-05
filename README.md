@@ -59,12 +59,12 @@ The Deployment phase is cricial. To complete this phase follow following steps-
   ###### streamlit run main.py
   
   - Then enter your email
-    ![WhatsApp Image 2023-11-22 at 6 41 04 AM (1)](https://github.com/Deepesh0289/Car-Price-Prediction/assets/76846273/7f0398c9-260d-4caf-9c97-7ff2d62c5771)
+    ![WhatsApp Image 2023-11-22 at 6 41 04 AM (1)](https://github.com/kapil-saraswat/Car-Price-Prediction/assets/76846273/7f0398c9-260d-4caf-9c97-7ff2d62c5771)
   - After entering your email you will be redirected to the interface of your application. But in some case if you are not redirected to the browser or your application interface try to put local URL or Networl URL into search bar.
 
  #### Now your interface will look like this-
- ![WhatsApp Image 2023-11-22 at 6 41 03 AM](https://github.com/Deepesh0289/Car-Price-Prediction/assets/76846273/efa47b5d-1462-4828-b589-342d4c5cec12)
-![WhatsApp Image 2023-11-22 at 6 41 03 AM (1)](https://github.com/Deepesh0289/Car-Price-Prediction/assets/76846273/ca0bac7a-5f05-4a96-b45d-ad5220e67df5)
+ ![WhatsApp Image 2023-11-22 at 6 41 03 AM](https://github.com/kapil-saraswat/Car-Price-Prediction/assets/76846273/efa47b5d-1462-4828-b589-342d4c5cec12)
+![WhatsApp Image 2023-11-22 at 6 41 03 AM (1)](https://github.com/kapil-saraswat/Car-Price-Prediction/assets/76846273/ca0bac7a-5f05-4a96-b45d-ad5220e67df5)
 
 
 ### Now Your Project is Complete
@@ -72,17 +72,16 @@ The Deployment phase is cricial. To complete this phase follow following steps-
 - For more such type of content don't forget to give a star and follow me on LinkedIn and Twitter.
   
 ## 🚀 About Me
-- 👋 Hi, I’m @Deepesh0289
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Analytics
-- 📫 Approach me at deepesh.saini011@gmail.com or 7455085962
+- 👋 Hi, I’m @kapil-saraswat
+- 👀 I’m interested in Software developer
+- 🌱 I’m currently learning Web development
+- 📫 Approach me at kapil.saraswat1072@gmail.com or 9068953654
 
 
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepesh-saini-0289/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Deepesh0289?t=7R0Krl-H0wt7p7anZH1R1Q&s=08)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kapil-saraswat-0289/)
 [![Whatsapp](https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png)]
 
 
